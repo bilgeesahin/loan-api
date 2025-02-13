@@ -12,7 +12,7 @@ This project is a Loan API built with Spring Boot. It provides functionalities t
 
 1. Clone the repository
 ---
->git clone https://github.com/your-repo/loan-api.git
+>git clone https://github.com/bilgeesahin/loan-api
 ---
 2. Navigate to the project directory
 ---
